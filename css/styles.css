@@ -1,0 +1,68 @@
+body {
+  font-size: 16px;
+  color: #000;
+  background-color: #fff;
+  font-family: 'Oxygen', sans-serif;
+}
+/** HEADER **/
+#header-nav {
+  background-color: #0066ff;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-brand {
+  padding-top: 15px;
+}
+
+.navbar-brand h1 { /* Company name */
+  font-family: 'Oxygen', sans-serif;
+  color: #000;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus, .navbar-brand a {
+  text-decoration: none;
+}
+
+#nav-list a {
+  color: #000;
+  text-align: center;
+  font-size: 1.2em;
+  background-color: #85C1E9;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #000;
+}
+/* END HEADER */
+
+/* HOME PAGE */
+h2 
+{
+  text-align: center;
+  color: #000;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+
+
+#text
+{
+  border: 1px solid black;
+  background-color: #66b3ff;
+  height: 2000px;
+  padding: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  color: black;
+}
+
+
+/* END HOME PAGE */
